@@ -7,7 +7,7 @@ import io
 from PyPDF2 import PdfReader
 import docx
 import pandas as pd
-from dotenv import load_dotenv
+
 
 
 
