@@ -9,7 +9,6 @@ import docx
 import pandas as pd
 from dotenv import load_dotenv
 
-load_dotenv()
 
 
 MODEL_PATH = "lang_detector_pipeline_v2_papluca_all20.joblib"
