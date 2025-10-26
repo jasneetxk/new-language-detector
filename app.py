@@ -11,7 +11,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-# ---------------- CONFIG ----------------
+
 MODEL_PATH = "lang_detector_pipeline_v2_papluca_all20.joblib"
 
 LANG_MAP = {
